@@ -1,6 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.%20Zobayer%20Amin&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%20%26%20Web%20Developer&descSize=18&descAlignY=70" width="100%" />
-
+<img src="./banner.png" alt="Banner" width="100%" />
 # Hi, I'm Sizer 👋
 **CS Undergrad | UI/UX Enthusiast | Web Developer & AI/ML Explorer**
 
