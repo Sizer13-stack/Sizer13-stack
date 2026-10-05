@@ -1,7 +1,7 @@
 
 <img src="./banner.png" alt="Banner" width="100%" />
-# Hi, I'm Sizer 👋
-**CS Undergrad | UI/UX Enthusiast | Web Developer & AI/ML Explorer**
+<h1>Hi, I'm Sizer 👋</h1>
+<b>CS Undergrad | UI/UX Enthusiast | Web Developer & AI/ML Explorer</b>
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 zobayeramin13@gmail.com
 
