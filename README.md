@@ -2,18 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.%20Zobayer%20Amin&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%20%26%20Web%20Developer&descSize=18&descAlignY=70" width="100%" />
 
 # Hi, I'm Sizer 👋
-**Final-year CSE Student @ Daffodil International University | Aspiring AI/ML Engineer & Web Developer**
+**CS Undergrad | UI/UX Enthusiast | Web Developer & AI/ML Explorer**
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 zobayeramin13@gmail.com
 
 ## 👨‍💻 About Me
-I'm a final-year Computer Science and Engineering student who enjoys building web interfaces and exploring machine learning. I also have hands-on experience in graphic design, video editing, and technical support. I'm aiming to pursue a Master's degree in AI.
+I'm a design-to-production builder. I design interactive websites in Figma, then build them in JavaScript and ship them to production. I'm going full-stack so I can own the whole journey from the first wireframe to a live product. In the AI era, I believe the people who can design, build, and deploy end to end are the ones who stand out.
 
 ## 🚀 What I'm Up To
-- 🔭 Building **Raum**, a context-aware spatial meeting platform (capstone project)
-- 🧠 Researching deep learning for handwritten prescription understanding
-- 🌱 Learning Next.js and improving my TypeScript
-- 🎓 Preparing for a Master's in AI
+- 🎨 Mastering **Figma** for interactive, production-ready designs
+- ⚡ Going deep on **JavaScript** and **Next.js**, then expanding into full-stack
+- 🚢 Taking my designs all the way to live, deployed websites
+- 🤖 Using AI tools to design, build, and ship faster
 
 ## 🛠️ Skills
 <p align="left">
