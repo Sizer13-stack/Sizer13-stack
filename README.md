@@ -22,9 +22,8 @@ I'm a design-to-production builder. I design interactive websites in Figma, then
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:zobayeramin13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[Facebook URL]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:zobayeramin13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/zobayer-amin-301784309"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ## 📊 GitHub Stats
